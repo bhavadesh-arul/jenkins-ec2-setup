@@ -133,4 +133,3 @@ Both users visible:
 ## ✔️ Task Completed
 
 Jenkins successfully installed and configured on AWS EC2.
-Explored project creation and user management as required by GUVI DevOps task.
